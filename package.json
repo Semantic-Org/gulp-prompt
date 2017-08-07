@@ -13,11 +13,11 @@
   "author": "Simon Paitrault <contact@freyskeyd.fr>",
   "license": "MIT",
   "dependencies": {
-    "inquirer": "1.2.x",
+    "inquirer": "3.2.x",
     "event-stream": "~3.0.20"
   },
   "devDependencies": {
-    "inquirer": "1.2.x",
+    "inquirer": "3.2.x",
     "event-stream": "~3.0.20"
   },
   "directories": {
