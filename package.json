@@ -1,7 +1,7 @@
 {
   "name": "prompt-sui",
   "version": "3.2.1",
-  "description": "Add interactive console prompts to gulp",
+  "description": "Updated fork of gulp-prompt with more recent inquirer.js",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
