@@ -14,11 +14,11 @@
   "license": "MIT",
   "dependencies": {
     "inquirer": "3.2.x",
-    "event-stream": "~3.0.20"
+    "event-stream": "3.3.4"
   },
   "devDependencies": {
     "inquirer": "3.2.x",
-    "event-stream": "~3.0.20"
+    "event-stream": "3.3.4"
   },
   "directories": {
     "test": "test"
